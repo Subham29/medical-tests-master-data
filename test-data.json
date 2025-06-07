@@ -320,8 +320,8 @@
                     {
                         "id": "00000000000000000000005a",
                         "name": "Uric Acid",
-                        "unit": "",
-                        "normalRange": "(Male) 3.4-7.0 mg%\n(Female) 2.4-6.0 mg%",
+                        "unit": "mg%",
+                        "normalRange": "(Male) 3.4-7.0 mg%\n(Female) 2.4-6.0",
                         "order": 3
                     }
                 ]
@@ -488,8 +488,8 @@
                     {
                         "id": "000000000000000000000062",
                         "name": "HDL",
-                        "unit": "",
-                        "normalRange": "(Male) 30-60 mg% (Female) 40-70 mg%",
+                        "unit": "mg%",
+                        "normalRange": "(Male) 30-60 mg% (Female) 40-70",
                         "order": 1
                     },
                     {
@@ -509,8 +509,8 @@
                     {
                         "id": "000000000000000000000065",
                         "name": "Triglycerides",
-                        "unit": "",
-                        "normalRange": "(Male) 60-165 mg%\n(Female) 40-140 mg%",
+                        "unit": "mg%",
+                        "normalRange": "(Male) 60-165 mg%\n(Female) 40-140",
                         "order": 4
                     },
                     {
