@@ -1,0 +1,982 @@
+[
+    {
+        "id": "000000000000000000000069",
+        "name": "Blood",
+        "order": 1,
+        "subCategories": [
+            {
+                "id": "00000000000000000000006a",
+                "name": "General",
+                "order": 1,
+                "tests": [
+                    {
+                        "id": "000000000000000000000001",
+                        "name": "Haemoglobin (HB%)",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 1
+                    },
+                    {
+                        "id": "000000000000000000000002",
+                        "name": "TPC",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 2
+                    },
+                    {
+                        "id": "000000000000000000000003",
+                        "name": "M.F.",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 3
+                    },
+                    {
+                        "id": "000000000000000000000004",
+                        "name": "TWBC",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 4
+                    }
+                ]
+            },
+            {
+                "id": "00000000000000000000006b",
+                "name": "Differential Count",
+                "order": 2,
+                "tests": [
+                    {
+                        "id": "000000000000000000000005",
+                        "name": "Neutrophil",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 1
+                    },
+                    {
+                        "id": "000000000000000000000006",
+                        "name": "Eosinophil",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 2
+                    },
+                    {
+                        "id": "000000000000000000000007",
+                        "name": "Basophil",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 3
+                    },
+                    {
+                        "id": "000000000000000000000008",
+                        "name": "Lymphocyte",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 4
+                    },
+                    {
+                        "id": "000000000000000000000009",
+                        "name": "Monocyte",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 5
+                    }
+                ]
+            },
+            {
+                "id": "00000000000000000000006c",
+                "name": "Infections and Serology",
+                "order": 3,
+                "tests": [
+                    {
+                        "id": "00000000000000000000000a",
+                        "name": "MP - ICT",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 1
+                    },
+                    {
+                        "id": "00000000000000000000000b",
+                        "name": "E.S.R. (1st Hr.)",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 2
+                    },
+                    {
+                        "id": "00000000000000000000000c",
+                        "name": "VDRL",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 3
+                    },
+                    {
+                        "id": "00000000000000000000000d",
+                        "name": "ABO Grouping",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 4
+                    },
+                    {
+                        "id": "00000000000000000000000e",
+                        "name": "Rh-Typing",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 5
+                    },
+                    {
+                        "id": "00000000000000000000000f",
+                        "name": "Sickling Test",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 6
+                    },
+                    {
+                        "id": "000000000000000000000010",
+                        "name": "B.T.",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 7
+                    },
+                    {
+                        "id": "000000000000000000000011",
+                        "name": "C.T.",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 8
+                    },
+                    {
+                        "id": "000000000000000000000012",
+                        "name": "Montoux test (P.P.D.)",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 9
+                    },
+                    {
+                        "id": "000000000000000000000013",
+                        "name": "A.S.O.",
+                        "unit": "",
+                        "normalRange": "U/ml",
+                        "order": 10
+                    },
+                    {
+                        "id": "000000000000000000000014",
+                        "name": "C.R.P.",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 11
+                    },
+                    {
+                        "id": "000000000000000000000015",
+                        "name": "R.A Factor",
+                        "unit": "",
+                        "normalRange": "U/ml",
+                        "order": 12
+                    },
+                    {
+                        "id": "000000000000000000000016",
+                        "name": "HCV",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 13
+                    },
+                    {
+                        "id": "000000000000000000000017",
+                        "name": "HBsAg",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 14
+                    },
+                    {
+                        "id": "000000000000000000000018",
+                        "name": "HIV",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 15
+                    },
+                    {
+                        "id": "000000000000000000000019",
+                        "name": "P.R.P.S.",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 16
+                    },
+                    {
+                        "id": "00000000000000000000001a",
+                        "name": "H. Pylori Ab Combo",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 17
+                    },
+                    {
+                        "id": "00000000000000000000001b",
+                        "name": "Widal Test: IgG",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 18
+                    },
+                    {
+                        "id": "00000000000000000000001c",
+                        "name": "Widal Test: IgM",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 19
+                    },
+                    {
+                        "id": "00000000000000000000001d",
+                        "name": "Scrub Typhus - IgG",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 20
+                    },
+                    {
+                        "id": "00000000000000000000001e",
+                        "name": "Scrub Typhus - IgM",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 21
+                    },
+                    {
+                        "id": "00000000000000000000001f",
+                        "name": "Dengue - IgG",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 22
+                    },
+                    {
+                        "id": "000000000000000000000020",
+                        "name": "Dengue - IgM",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 23
+                    },
+                    {
+                        "id": "000000000000000000000021",
+                        "name": "NS1 Antigen",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 24
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "00000000000000000000006d",
+        "name": "Blood Sugar",
+        "order": 2,
+        "subCategories": [
+            {
+                "id": "00000000000000000000006e",
+                "name": "",
+                "order": 0,
+                "tests": [
+                    {
+                        "id": "000000000000000000000052",
+                        "name": "F.B.S.",
+                        "unit": "mg%",
+                        "normalRange": "70-110",
+                        "order": 1
+                    },
+                    {
+                        "id": "000000000000000000000053",
+                        "name": "P.P.B.S.",
+                        "unit": "mg%",
+                        "normalRange": "Up to 140",
+                        "order": 2
+                    },
+                    {
+                        "id": "000000000000000000000054",
+                        "name": "R.B.S.",
+                        "unit": "mg%",
+                        "normalRange": "Up to 140",
+                        "order": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "00000000000000000000006f",
+        "name": "Renal",
+        "order": 3,
+        "subCategories": [
+            {
+                "id": "000000000000000000000070",
+                "name": "",
+                "order": 0,
+                "tests": [
+                    {
+                        "id": "000000000000000000000055",
+                        "name": "Urea",
+                        "unit": "mg%",
+                        "normalRange": "14-40",
+                        "order": 1
+                    },
+                    {
+                        "id": "000000000000000000000056",
+                        "name": "Creatinine",
+                        "unit": "mg%",
+                        "normalRange": "0.8-1.4",
+                        "order": 2
+                    },
+                    {
+                        "id": "00000000000000000000005a",
+                        "name": "Uric Acid",
+                        "unit": "",
+                        "normalRange": "(Male) 3.4-7.0 mg%\n(Female) 2.4-6.0 mg%",
+                        "order": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "000000000000000000000071",
+        "name": "Protein",
+        "order": 4,
+        "subCategories": [
+            {
+                "id": "000000000000000000000072",
+                "name": "",
+                "order": 0,
+                "tests": [
+                    {
+                        "id": "000000000000000000000057",
+                        "name": "Total Protein",
+                        "unit": "gm%",
+                        "normalRange": "6.0-8.0",
+                        "order": 1
+                    }
+                ]
+            },
+            {
+                "id": "000000000000000000000073",
+                "name": "Total Protein",
+                "order": 1,
+                "tests": [
+                    {
+                        "id": "000000000000000000000058",
+                        "name": "Albumin",
+                        "unit": "gm%",
+                        "normalRange": "3.0-5.0",
+                        "order": 2
+                    },
+                    {
+                        "id": "000000000000000000000059",
+                        "name": "Globulin",
+                        "unit": "gm%",
+                        "normalRange": "2.4-3.9",
+                        "order": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "000000000000000000000074",
+        "name": "Liver Function",
+        "order": 5,
+        "subCategories": [
+            {
+                "id": "000000000000000000000075",
+                "name": "",
+                "order": 0,
+                "tests": [
+                    {
+                        "id": "00000000000000000000005b",
+                        "name": "Bilirubin",
+                        "unit": "mg%",
+                        "normalRange": "0.2-1.0",
+                        "order": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "000000000000000000000076",
+        "name": "Liver Enzymes",
+        "order": 6,
+        "subCategories": [
+            {
+                "id": "000000000000000000000077",
+                "name": "",
+                "order": 0,
+                "tests": [
+                    {
+                        "id": "00000000000000000000005c",
+                        "name": "S.G.P.T.",
+                        "unit": "U/L",
+                        "normalRange": "Up to 40",
+                        "order": 1
+                    },
+                    {
+                        "id": "00000000000000000000005d",
+                        "name": "S.G.O.T.",
+                        "unit": "U/L",
+                        "normalRange": "Up to 40",
+                        "order": 2
+                    },
+                    {
+                        "id": "00000000000000000000005e",
+                        "name": "Alkaline Phosphatase",
+                        "unit": "U/L",
+                        "normalRange": "80-306",
+                        "order": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "000000000000000000000078",
+        "name": "Electrolytes",
+        "order": 7,
+        "subCategories": [
+            {
+                "id": "000000000000000000000079",
+                "name": "",
+                "order": 0,
+                "tests": [
+                    {
+                        "id": "00000000000000000000005f",
+                        "name": "Na⁺",
+                        "unit": "mmol/L",
+                        "normalRange": "135-155",
+                        "order": 1
+                    },
+                    {
+                        "id": "000000000000000000000060",
+                        "name": "K⁺",
+                        "unit": "mmol/L",
+                        "normalRange": "3.5-5.5",
+                        "order": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "00000000000000000000007a",
+        "name": "Minerals",
+        "order": 8,
+        "subCategories": [
+            {
+                "id": "00000000000000000000007b",
+                "name": "",
+                "order": 0,
+                "tests": [
+                    {
+                        "id": "000000000000000000000061",
+                        "name": "Sr. Calcium",
+                        "unit": "mg%",
+                        "normalRange": "8.7-11.0",
+                        "order": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "00000000000000000000007c",
+        "name": "Lipid Profile",
+        "order": 9,
+        "subCategories": [
+            {
+                "id": "00000000000000000000007d",
+                "name": "",
+                "order": 0,
+                "tests": [
+                    {
+                        "id": "000000000000000000000062",
+                        "name": "HDL",
+                        "unit": "",
+                        "normalRange": "(Male) 30-60 mg% (Female) 40-70 mg%",
+                        "order": 1
+                    },
+                    {
+                        "id": "000000000000000000000063",
+                        "name": "LDL",
+                        "unit": "mg%",
+                        "normalRange": "<150",
+                        "order": 2
+                    },
+                    {
+                        "id": "000000000000000000000064",
+                        "name": "VLDL",
+                        "unit": "mg%",
+                        "normalRange": "<35",
+                        "order": 3
+                    },
+                    {
+                        "id": "000000000000000000000065",
+                        "name": "Triglycerides",
+                        "unit": "",
+                        "normalRange": "(Male) 60-165 mg%\n(Female) 40-140 mg%",
+                        "order": 4
+                    },
+                    {
+                        "id": "000000000000000000000066",
+                        "name": "Total Cholesterol",
+                        "unit": "mg%",
+                        "normalRange": "125-250",
+                        "order": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "00000000000000000000007e",
+        "name": "Pancreatic",
+        "order": 10,
+        "subCategories": [
+            {
+                "id": "00000000000000000000007f",
+                "name": "",
+                "order": 0,
+                "tests": [
+                    {
+                        "id": "000000000000000000000067",
+                        "name": "Serum Amylase",
+                        "unit": "U/L",
+                        "normalRange": "Up to 90",
+                        "order": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "000000000000000000000080",
+        "name": "Stool",
+        "order": 11,
+        "subCategories": [
+            {
+                "id": "000000000000000000000081",
+                "name": "Macroscopic",
+                "order": 1,
+                "tests": [
+                    {
+                        "id": "000000000000000000000022",
+                        "name": "Consistency",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 1
+                    },
+                    {
+                        "id": "000000000000000000000023",
+                        "name": "Colour",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 2
+                    },
+                    {
+                        "id": "000000000000000000000024",
+                        "name": "Mucous",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 3
+                    },
+                    {
+                        "id": "000000000000000000000025",
+                        "name": "Blood",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 4
+                    },
+                    {
+                        "id": "000000000000000000000026",
+                        "name": "Reaction",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 5
+                    }
+                ]
+            },
+            {
+                "id": "000000000000000000000082",
+                "name": "Microscopic",
+                "order": 2,
+                "tests": [
+                    {
+                        "id": "000000000000000000000027",
+                        "name": "Ova",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 1
+                    },
+                    {
+                        "id": "000000000000000000000028",
+                        "name": "Cyst",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 2
+                    },
+                    {
+                        "id": "000000000000000000000029",
+                        "name": "Trophozoites",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 3
+                    },
+                    {
+                        "id": "00000000000000000000002a",
+                        "name": "Yeast Cell",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 4
+                    },
+                    {
+                        "id": "00000000000000000000002b",
+                        "name": "Pus Cells",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 5
+                    },
+                    {
+                        "id": "00000000000000000000002c",
+                        "name": "Veg. cells",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 6
+                    },
+                    {
+                        "id": "00000000000000000000002d",
+                        "name": "Bacterial flora",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 7
+                    },
+                    {
+                        "id": "00000000000000000000002e",
+                        "name": "Macrophages",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 8
+                    }
+                ]
+            },
+            {
+                "id": "000000000000000000000083",
+                "name": "Other",
+                "order": 3,
+                "tests": [
+                    {
+                        "id": "00000000000000000000002f",
+                        "name": "pH",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 1
+                    },
+                    {
+                        "id": "000000000000000000000030",
+                        "name": "Sugar",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 2
+                    },
+                    {
+                        "id": "000000000000000000000031",
+                        "name": "Occult Blood",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "000000000000000000000084",
+        "name": "Urine",
+        "order": 12,
+        "subCategories": [
+            {
+                "id": "000000000000000000000085",
+                "name": "Physical",
+                "order": 1,
+                "tests": [
+                    {
+                        "id": "000000000000000000000032",
+                        "name": "Quantity",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 1
+                    },
+                    {
+                        "id": "000000000000000000000033",
+                        "name": "Colour",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 2
+                    },
+                    {
+                        "id": "000000000000000000000034",
+                        "name": "Odour",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 3
+                    },
+                    {
+                        "id": "000000000000000000000035",
+                        "name": "Appearance",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 4
+                    },
+                    {
+                        "id": "000000000000000000000036",
+                        "name": "Reaction",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 5
+                    },
+                    {
+                        "id": "000000000000000000000037",
+                        "name": "Specific gravity",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 6
+                    }
+                ]
+            },
+            {
+                "id": "000000000000000000000086",
+                "name": "Chemical",
+                "order": 2,
+                "tests": [
+                    {
+                        "id": "000000000000000000000038",
+                        "name": "Albumin",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 1
+                    },
+                    {
+                        "id": "000000000000000000000039",
+                        "name": "Sugar",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 2
+                    },
+                    {
+                        "id": "00000000000000000000003a",
+                        "name": "Acetone",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 3
+                    },
+                    {
+                        "id": "00000000000000000000003b",
+                        "name": "Bile Salts",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 4
+                    },
+                    {
+                        "id": "00000000000000000000003c",
+                        "name": "Bile Pigment",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 5
+                    },
+                    {
+                        "id": "00000000000000000000003d",
+                        "name": "Phosphates",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 6
+                    },
+                    {
+                        "id": "00000000000000000000003e",
+                        "name": "Others",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 7
+                    }
+                ]
+            },
+            {
+                "id": "000000000000000000000087",
+                "name": "Microscopic",
+                "order": 3,
+                "tests": [
+                    {
+                        "id": "00000000000000000000003f",
+                        "name": "Cast",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 1
+                    },
+                    {
+                        "id": "000000000000000000000040",
+                        "name": "Crystal",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 2
+                    },
+                    {
+                        "id": "000000000000000000000041",
+                        "name": "RBC",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 3
+                    },
+                    {
+                        "id": "000000000000000000000042",
+                        "name": "Pus Cells",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 4
+                    },
+                    {
+                        "id": "000000000000000000000043",
+                        "name": "Epithelial Cells",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 5
+                    },
+                    {
+                        "id": "000000000000000000000044",
+                        "name": "Spermatozoa",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 6
+                    },
+                    {
+                        "id": "00000000000000000000008b",
+                        "name": "Bacteria",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 7
+                    },
+                    {
+                        "id": "000000000000000000000045",
+                        "name": "Others",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 8
+                    },
+                    {
+                        "id": "000000000000000000000046",
+                        "name": "Pregnancy Test",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 9
+                    },
+                    {
+                        "id": "000000000000000000000047",
+                        "name": "Sputum for AFB",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "000000000000000000000088",
+        "name": "Seminogram",
+        "order": 13,
+        "subCategories": [
+            {
+                "id": "000000000000000000000089",
+                "name": "Report",
+                "order": 1,
+                "tests": [
+                    {
+                        "id": "000000000000000000000048",
+                        "name": "Quantity",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 1
+                    },
+                    {
+                        "id": "000000000000000000000049",
+                        "name": "Odour",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 2
+                    },
+                    {
+                        "id": "00000000000000000000004a",
+                        "name": "Viscosity",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 3
+                    },
+                    {
+                        "id": "00000000000000000000004b",
+                        "name": "Reaction",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 4
+                    },
+                    {
+                        "id": "00000000000000000000004c",
+                        "name": "Motility",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 5
+                    },
+                    {
+                        "id": "00000000000000000000004d",
+                        "name": "Active",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 6
+                    },
+                    {
+                        "id": "00000000000000000000004e",
+                        "name": "Sluggish",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 7
+                    },
+                    {
+                        "id": "00000000000000000000004f",
+                        "name": "Dead",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 8
+                    },
+                    {
+                        "id": "000000000000000000000050",
+                        "name": "Total Count (million/mL)",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 9
+                    },
+                    {
+                        "id": "000000000000000000000051",
+                        "name": "Pus Cells",
+                        "unit": "",
+                        "normalRange": "",
+                        "order": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "00000000000000000000008a",
+        "name": "Miscellaneous",
+        "order": 14,
+        "subCategories": [
+            {
+                "id": "00000000000000000000008b",
+                "name": "",
+                "order": 0,
+                "tests": [
+                    {
+                        "id": "000000000000000000000068",
+                        "name": "Others",
+                        "unit": "%",
+                        "normalRange": "",
+                        "order": 1
+                    }
+                ]
+            }
+        ]
+    }
+]
